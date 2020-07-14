@@ -29,7 +29,10 @@ end
  
  
  def now_serving(array)
- array = []
+ 
+ 
+ 
+ 
    if array.length != 0
  
    puts "Currently serving #{array.shift}." 
