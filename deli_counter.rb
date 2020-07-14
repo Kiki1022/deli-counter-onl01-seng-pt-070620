@@ -35,7 +35,7 @@ end
    end
   
    if array.length > 1
-     array = []
+     
    puts "Currently serving #{array.shift}."   
    end
 
